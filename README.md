@@ -54,6 +54,8 @@ https://emmaskarstein.github.io/images/cheatsheets_themes.pdf
 
 https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf 
 
+https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf
+
 
 ## Presentations
 
@@ -64,3 +66,8 @@ Some xaringan resources:
 - Extra functionality: https://github.com/gadenbuie/xaringanExtra 
 - Themes: https://pkg.garrickadenbuie.com/xaringanthemer/articles/xaringanthemer.html 
 - How to include references and citations: https://github.com/yihui/xaringan/wiki/Bibliography-and-citations (you will need to look at the documentation for RefManageR as well, most helpful is the help page `?RefManageR::BibOptions`. (This may be helpful too: https://github.com/yihui/xaringan/issues/26#issuecomment-368320444) 
+
+## R package development
+
+Cheatsheet | https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf
+
