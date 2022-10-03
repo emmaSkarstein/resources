@@ -27,6 +27,9 @@ Specific color related topics from Datawrapper:
 - [10 ways to use fewer colors in your data visualization](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 - [Colors for gender data](https://blog.datawrapper.de/gendercolor/)
 
+### Types of graphs
+- [The R Graph Gallery](https://r-graph-gallery.com/)
+
 ### Tables
 
 Datawrapper | [What to consider when creating tables](https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/)
