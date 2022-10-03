@@ -46,16 +46,12 @@ Datawrapper | [What to consider when creating tables](https://blog.datawrapper.d
 
 
 ## Cheatsheets
-https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf
 
-https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf 
-
-https://emmaskarstein.github.io/images/cheatsheets_themes.pdf 
-
-https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf 
-
-https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf
-
+- [`ggplot2` cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)
+- [`dplyr` cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf)
+- [Themes in `ggplot2` cheatsheet (Emma's version)](https://emmaskarstein.github.io/images/cheatsheets_themes.pdf)
+- [Themes in `ggplot2` cheatsheet (Clara Granell's version)](https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf)
+- [Package development cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf)
 
 ## Presentations
 
