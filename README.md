@@ -65,5 +65,9 @@ Some xaringan resources:
 
 ## R package development
 
-Cheatsheet | https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf
+- [Package development cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/master/package-development.pdf)
+- [Using `ggplot2` in R packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
+  - [A really nice example package that shows how to use `ggplot2` in a package](https://github.com/paleolimbot/electionca)
+
+
 
