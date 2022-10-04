@@ -73,4 +73,7 @@ Some xaringan resources:
   - [Paleolimbot: `electionca`](https://github.com/paleolimbot/electionca) | A really nice example package that shows how to use `ggplot2` in a package.
 
 
+## Regex
+
+- [regex101.com](https://regex101.com/) | Testing regular expressions
 
