@@ -27,6 +27,9 @@ Specific color related topics from Datawrapper:
 - [10 ways to use fewer colors in your data visualization](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 - [Colors for gender data](https://blog.datawrapper.de/gendercolor/)
 
+Color palettes:
+- [colorspace: ggplot2 color scales](https://colorspace.r-forge.r-project.org/articles/ggplot2_color_scales.html) A very organized R package that lets you set up custom color palettes but also has some built in. Very helpful for continuous color palettes.
+
 ### Types of graphs
 - [The R Graph Gallery](https://r-graph-gallery.com/)
 
