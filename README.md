@@ -42,6 +42,7 @@ Datawrapper | [What to consider when creating tables](https://blog.datawrapper.d
 
 [Advanced R topics: gt tables](https://aosmith16.github.io/spring-r-topics/slides/week04_gt_tables.html#1 ) Super nice presentation on `gt` by Ariel Muldoon. The slides are made in Xaringan and also shows off that really well! Part two of the presentation is [here](https://aosmith16.github.io/spring-r-topics/slides/week05_gt_flair.html#1) (colors, themes, etc.)
 
+[kableExtra](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf)| Tables for pdfs, useful for academic articles.
 
 ### Useful packages for `ggplot2` 
 
