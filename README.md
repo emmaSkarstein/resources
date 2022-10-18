@@ -52,6 +52,8 @@ Datawrapper | [What to consider when creating tables](https://blog.datawrapper.d
 
 [`showtext`](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) | Changing fonts in `ggplot2` plots (or anything based on Rmarkdown)
 
+[How to Create Engaging and Complex Visualizations in R](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)| Really great `ggplot2` workshop by Cédric Scherer, covers many technical aspects of `ggplot2`.
+
 
 ## Cheatsheets
 
