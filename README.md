@@ -13,6 +13,8 @@ Datawrapper | [What to think about when creating charts](https://blog.datawrappe
 ### Fonts
 Datawrapper | [Which fonts to use for your charts and tables](https://blog.datawrapper.de/fonts-for-data-visualization/). Amazing introduction, talks about all the parameters that go into a font.
 
+Pimp my type | https://pimpmytype.com/free-quality-fonts/
+
 [`showtext`](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) | Favorite package for fonts in ggplot2 (and rmarkdown-based stuff), you can use any font from [Google Fonts](https://fonts.google.com/)
 
 ### Colors
