@@ -31,7 +31,8 @@ Specific color related topics from Datawrapper:
 
 Color palettes:
 - [colorspace: ggplot2 color scales](https://colorspace.r-forge.r-project.org/articles/ggplot2_color_scales.html) A very organized R package that lets you set up custom color palettes but also has some built in. Very helpful for continuous color palettes.
-- https://www.canva.com/learn/100-color-combinations/ 
+- [Canva color palettes (these consist of 4 colors each)](https://www.canva.com/learn/100-color-combinations/)
+- [Paul Tol's palettes (good for color blindness, screeen/paper, etc.)](https://cran.r-project.org/web/packages/khroma/vignettes/tol.html)
 
 ### Types of graphs
 - [The R Graph Gallery](https://r-graph-gallery.com/)
