@@ -82,6 +82,9 @@ Some xaringan resources:
 - [Using `ggplot2` in R packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
   - [Paleolimbot: `electionca`](https://github.com/paleolimbot/electionca) | A really nice example package that shows how to use `ggplot2` in a package.
 
+## Making websites
+
+[Publishing a Quarto website with GitHub Pages](https://quarto.org/docs/publishing/github-pages.html#render-to-docs)
 
 ## Regex
 
