@@ -17,6 +17,8 @@ Pimp my type | https://pimpmytype.com/free-quality-fonts/
 
 [`showtext`](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) | Favorite package for fonts in ggplot2 (and rmarkdown-based stuff), you can use any font from [Google Fonts](https://fonts.google.com/)
 
+[Setting up and debugging custom fonts](https://yjunechoe.github.io/posts/2021-06-24-setting-up-and-debugging-custom-fonts/) | `ragg`, `systemfonts`, etc., a possible alternative to `showtext`. 
+
 ### Colors
 Datawrapper | [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
 
