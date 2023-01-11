@@ -91,4 +91,4 @@ Some xaringan resources:
 - [regex101.com](https://regex101.com/) | Testing regular expressions
 
 ## Other people's blogs
-- [Cara Thompson: *Building stories with data*](https://www.cararthompson.com/blog.html)
+- [Cara Thompson: *Building stories with data*](https://www.cararthompson.com/blog.html) (lots of useful stuff in the "Talks" tab as well!)
