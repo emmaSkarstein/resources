@@ -84,13 +84,18 @@ Some xaringan resources:
 - [Using `ggplot2` in R packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
   - [Paleolimbot: `electionca`](https://github.com/paleolimbot/electionca) | A really nice example package that shows how to use `ggplot2` in a package.
 
-## Making websites
+## Making websites in Quarto (or Distill)
 
-[Publishing a Quarto website with GitHub Pages](https://quarto.org/docs/publishing/github-pages.html#render-to-docs)
+- [Publishing a Quarto website with GitHub Pages](https://quarto.org/docs/publishing/github-pages.html#render-to-docs)
+- [Shamindra Shrotriya: Upgrading Distill Blog Settings](https://www.shamindras.com/posts/2019-07-31-shrotriya2019distillpt2/) | Disqus comments, Google analytics and more 
+  - Note that Google Analytics for Quarto is described here: https://quarto.org/docs/websites/website-tools.html#google-analytics
+- [Thomas Mock: Including and meta tagging extra content in a distill blog](https://themockup.blog/posts/2021-03-21-meta-tagging-distill/) | Search engine optimization, etc. 
 
 ## Regex
 
 - [regex101.com](https://regex101.com/) | Testing regular expressions
+- [R Programming for Data Science: Regular expressions](https://bookdown.org/rdpeng/rprogdatascience/regular-expressions.html) | Useful introduction to working with regular expressions in `R`. Also has videos!
 
-## Other people's blogs
+## Other people's blogs or websites
 - [Cara Thompson: *Building stories with data*](https://www.cararthompson.com/blog.html) (lots of useful stuff in the "Talks" tab as well!)
+- [Ariel Muldoon: *Advanced R topics*](https://aosmith16.github.io/spring-r-topics/) | I keep ending up in her slides from googling, and I always learn something and end up exploring more than I came from. Topics I have looked at: Distill website, tables with `gt`. 
