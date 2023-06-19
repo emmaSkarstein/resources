@@ -35,6 +35,7 @@ Color palettes:
 - [colorspace: ggplot2 color scales](https://colorspace.r-forge.r-project.org/articles/ggplot2_color_scales.html): A very organized R package that lets you set up custom color palettes but also has some built in. Very helpful for continuous color palettes. Contains the `darken()`/`lighten()` functions.
 - [Canva color palettes](https://www.canva.com/learn/100-color-combinations/):  These consist of 4 colors each.
 - [Paul Tol's palettes](https://cran.r-project.org/web/packages/khroma/vignettes/tol.html): Good for color blindness, screeen/paper, etc.
+- [ColorBrewer](https://colorbrewer2.org/): Generate a few different types of simple discrete palettes based on number of categories, sequential/diverging/qualitative, etc. 
 
 ### Types of graphs
 - [The R Graph Gallery](https://r-graph-gallery.com/)
