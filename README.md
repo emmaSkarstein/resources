@@ -91,7 +91,10 @@ Some xaringan resources:
 - [Publishing a Quarto website with GitHub Pages](https://quarto.org/docs/publishing/github-pages.html#render-to-docs)
 - [Shamindra Shrotriya: Upgrading Distill Blog Settings](https://www.shamindras.com/posts/2019-07-31-shrotriya2019distillpt2/) | Disqus comments, Google analytics and more 
   - Note that Google Analytics for Quarto is described here: https://quarto.org/docs/websites/website-tools.html#google-analytics
-- [Thomas Mock: Including and meta tagging extra content in a distill blog](https://themockup.blog/posts/2021-03-21-meta-tagging-distill/) | Search engine optimization, etc. 
+- [Thomas Mock: Including and meta tagging extra content in a distill blog](https://themockup.blog/posts/2021-03-21-meta-tagging-distill/) | Search engine optimization, etc.
+
+## GitHub
+- [GitHub actions](https://docs.github.com/en/actions/quickstart) | For instance, how to trigger (or not trigger) workflows.
 
 ## Regex
 
