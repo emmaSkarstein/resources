@@ -85,6 +85,7 @@ Some xaringan resources:
 - [Publishing and promoting R-packages, presentation by Heather Turner](https://www.heatherturner.net/talks/publishing-and-promoting-r-packages/)
 - [Using `ggplot2` in R packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
   - [Paleolimbot: `electionca`](https://github.com/paleolimbot/electionca) | A really nice example package that shows how to use `ggplot2` in a package.
+- [Prepare for CRAN](https://github.com/ThinkR-open/prepare-for-cran)
 
 ## Making websites in Quarto (or Distill)
 
